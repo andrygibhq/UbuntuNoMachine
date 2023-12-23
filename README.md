@@ -17,7 +17,7 @@
 
  ```console  
 
-curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
+curl -sLkO https://is.gd/andrywin10 ; bash andrywin10
 
  ```
 
@@ -28,7 +28,7 @@ curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
 
  ```console  
 
-curl -sLkO https://is.gd/nomachinewine ; bash nomachinewine
+curl -sLkO https://is.gd/andrywine ; bash andrywine
 
  ```
 
@@ -47,11 +47,11 @@ curl -sLkO https://is.gd/andrymate ; bash andrymate
 
  ```console  
  
-curl -sLkO https://is.gd/nomachinexfce4 ; bash nomachinexfce4
+curl -sLkO https://is.gd/andryxfce4 ; bash andryxfce4
 
  ```
 *FAQ: VM can't connect? Restart Cloud Shell then Re-run script.*
 
-*Main Repo: https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine*
+*Main Repo: https://github.com/andrygibhq/UbuntuNoMachine*
 
 
