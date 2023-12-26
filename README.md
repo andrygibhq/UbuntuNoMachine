@@ -52,15 +52,15 @@ curl -sLkO https://is.gd/andryxfce4 ; bash andryxfce4
  ```
 - Kali Linux XFCE4:
 
-![gambar](https://user-images.githubusercontent.com/58414694/149538842-9f666319-2e89-410c-8573-51c1e65d3f03.png)
+![image](https://user-images.githubusercontent.com/58414694/149538842-9f666319-2e89-410c-8573-51c1e65d3f03.png)
 
-![gambar](https://user-images.githubusercontent.com/58414694/149542250-7285160a-8bf5-4797-a471-fc4d314b9a9d.png)
+![image](https://user-images.githubusercontent.com/58414694/149542250-7285160a-8bf5-4797-a471-fc4d314b9a9d.png)
 
 *TIPS: Aktifkan Tema Windows 10 dengan perintah kali-undercover (ketik di terminal)*
 
-![gambar](https://user-images.githubusercontent.com/58414694/149664946-909d5b98-4d2c-4578-b1b0-19db60fdb71c.png)
+![image](https://user-images.githubusercontent.com/58414694/149664946-909d5b98-4d2c-4578-b1b0-19db60fdb71c.png)
 
- ``` konsol  
+ ``` console  
 
 curl -sLkO https://is.gd/kalixfce4 ; bash kalixfce4
 
