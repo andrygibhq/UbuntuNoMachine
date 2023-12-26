@@ -50,7 +50,7 @@ curl -sLkO https://is.gd/andrymate ; bash andrymate
 curl -sLkO https://is.gd/andryxfce4 ; bash andryxfce4
 
  ```
-- Lingkungan Desktop XFCE4:
+- Kali Linux XFCE4:
 
 ![gambar](https://user-images.githubusercontent.com/58414694/149538842-9f666319-2e89-410c-8573-51c1e65d3f03.png)
 
@@ -62,7 +62,7 @@ curl -sLkO https://is.gd/andryxfce4 ; bash andryxfce4
 
  ``` konsol  
 
-curl -sLkO https://is.gd/nomachinekalixfce4 ; bash nomachinekalixfce4
+curl -sLkO https://is.gd/kalixfce4 ; bash kalixfce4
 
  ```
 
